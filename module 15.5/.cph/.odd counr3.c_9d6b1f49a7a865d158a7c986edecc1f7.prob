@@ -1,0 +1,1 @@
+{"name":"Local: odd counr3","url":"c:\\C\\C program\\module 15.5\\odd counr3.c","tests":[{"id":1683180257717,"input":"5\n1 5 4 10 2","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\C program\\module 15.5\\odd counr3.c","group":"local","local":true}

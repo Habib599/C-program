@@ -1,0 +1,1 @@
+{"name":"Local: 5","url":"c:\\C\\C program\\module 14.5\\5.c","tests":[{"id":1683084562931,"input":"A","output":"a"},{"id":1683084579161,"input":"a","output":"wrong input"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\C program\\module 14.5\\5.c","group":"local","local":true}

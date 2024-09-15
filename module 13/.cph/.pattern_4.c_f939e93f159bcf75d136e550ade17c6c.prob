@@ -1,0 +1,1 @@
+{"name":"Local: pattern_4","url":"c:\\C\\C program\\module 13\\pattern_4.c","tests":[{"id":1683084725115,"input":"4","output":"*\n  ***\n *****\n*******\n *****\n  ***\n   *"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\C\\C program\\module 13\\pattern_4.c","group":"local","local":true}

@@ -2,36 +2,36 @@
 
 Basic Syntax, Condition & Loop</summary>
     <ul>
-        <li>Data types and limitations</li>
-        <li>Operators, Conditional Statement</li>
-        <li>Loop & Nested Loop</li>
+        <li>1. Data types and limitations</li>
+        <li>2. Operators, Conditional Statement</li>
+        <li>3. Loop & Nested Loop</li>
     </ul>
 
 Arrays, Condition & Loop Recap</summary>
     <ul>
-        <li>Nested if-else recap</li>
-        <li>Nested Loop recap</li>
-        <li>Array</li>
+        <li>5. Nested if-else recap</li>
+        <li>6. Nested Loop recap</li>
+        <li>7. Array</li>
     </ul>
 
 
 String, String Operations</summary>
     <ul>
-        <li>Array Operations</li>
-        <li>String</li>
-        <li>String Operation</li>
+        <li>9. Array Operations</li>
+        <li>10. String</li>
+        <li>11. String Operation</li>
     </ul>
 
 Function & Pointer</summary>
     <ul>
-        <li>Nested loop reacap</li>
-        <li>Function</li>
-        <li>Pointer</li>
+        <li>13. Nested loop reacap</li>
+        <li>14. Function</li>
+        <li>15. Pointer</li>
     </ul>
 
 2D Array & Recursion</summary>
     <ul>
-        <li>2D Array</li>
-        <li>Recursion</li>
-        <li>Recursion Problem Solving</li>
+        <li>17. 2D Array</li>
+        <li>18. Recursion</li>
+        <li>19. Recursion Problem Solving</li>
     </ul>

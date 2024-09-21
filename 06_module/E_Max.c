@@ -1,17 +1,23 @@
-#include <stdio.h>
+#include<stdio.h>
+#include<limits.h>
 int main()
 {
-    int i,n,m,max=0;
+    int n;
     scanf("%d",&n);
-    for(i=0;i<n;i++)
+    int a,max=INT_MIN,min=INT_MAX;
+    for(int i=1;i<=n;i++)
     {
-        scanf("%d",&m);
-        if(m>max)
+        scanf("%d",&a);
+        if(a>max)
         {
-            max=m;
+            max=a;
+        }
+        if(a<min)
+        {
+            min=a;
         }
     }
-    printf("%d\n",max);
+    printf("%d %d\n",min,max);
     return 0;
 }
 

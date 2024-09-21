@@ -1,16 +1,17 @@
-#include <stdio.h>
-
-int main() {
-    int password;
-    while (scanf("%d", &password) == 1)
-     {
-        if (password == 1999) 
+#include<stdio.h>
+int main()
+{
+    int n;
+    while(scanf("%d",&n) != EOF)
+    {
+        //kaj
+        if(n==1999)
         {
             printf("Correct\n");
-            return 0;
-        } 
-        else
-         {
+            break;
+        }
+        else 
+        {
             printf("Wrong\n");
         }
     }

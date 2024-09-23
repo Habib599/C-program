@@ -1,0 +1,1 @@
+{"name":"Local: copy","url":"c:\\Users\\mdhab_c38xd76\\OneDrive\\Documents\\GitHub\\C-program\\09_module\\copy.c","tests":[{"id":1727025417856,"input":"5 89 6 35 36 9\n5 15 58 69 6 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\mdhab_c38xd76\\OneDrive\\Documents\\GitHub\\C-program\\09_module\\copy.c","group":"local","local":true}

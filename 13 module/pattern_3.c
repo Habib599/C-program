@@ -1,17 +1,18 @@
-#include <stdio.h>
+#include<stdio.h>
 int main()
 {
-    int i,j,k=1,n;
+    int n,k=1;
     scanf("%d",&n);
-    for(i=1;i<=n;i++)
+    for(int i=1;i<=n;i++)
     {
-        for (j=1;j<=k;j++)
+        // line print
+        for(int j=1;j<=k;j++)
         {
             printf("%d ",j);
         }
-        k++; 
-        puts("");
+        // line sesh
+        k++;
+        printf("\n");
     }
     return 0;
 }
-

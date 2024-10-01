@@ -12,7 +12,7 @@ int main()
         }
         k--; 
         puts("");
-    }
+    } 
     return 0;
 }
 

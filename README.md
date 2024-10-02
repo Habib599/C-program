@@ -31,7 +31,7 @@ Function & Pointer</summary>
 
 2D Array & Recursion</summary>
     <ul>
-        <li>17. 2D Array</li>
-        <li>18. Recursion</li>
+        <li>17. Recursion</li>
+        <li>18. 2D Array</li>
         <li>19. Recursion Problem Solving</li>
     </ul>

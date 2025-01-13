@@ -11,7 +11,7 @@ int main()
     int sum=0;
     for(int i=0;i<n;i++)
     {
-        sum=sum+ar[i];
+        sum+=ar[i];
     }
     printf("%d",sum);
     return 0;

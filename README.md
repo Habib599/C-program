@@ -24,7 +24,7 @@ String, String Operations</summary>
 
 Function & Pointer</summary>
     <ul>
-        <li>13. Nested loop reacap</li>
+        <li>13. Nested loop reacap && selection sort</li>
         <li>14. Function</li>
         <li>15. Pointer</li>
     </ul>

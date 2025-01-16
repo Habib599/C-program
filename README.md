@@ -10,7 +10,7 @@ Basic Syntax, Condition & Loop</summary>
 Arrays, Condition & Loop Recap</summary>
     <ul>
         <li>5. Nested if-else recap</li>
-        <li>6. Nested Loop recap</li>
+        <li>6. Nested Loop recap....End of file (EOF)</li>
         <li>7. Array</li>
     </ul>
 

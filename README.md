@@ -10,7 +10,7 @@ Basic Syntax, Condition & Loop</summary>
 Arrays, Condition & Loop Recap</summary>
     <ul>
         <li>5. Nested if-else recap</li>
-        <li>6. Nested Loop recap</li>
+        <li>6. Nested Loop recap....End of file (EOF)</li>
         <li>7. Array</li>
     </ul>
 
@@ -24,7 +24,7 @@ String, String Operations</summary>
 
 Function & Pointer</summary>
     <ul>
-        <li>13. Nested loop reacap</li>
+        <li>13. Nested loop reacap && selection sort</li>
         <li>14. Function</li>
         <li>15. Pointer</li>
     </ul>

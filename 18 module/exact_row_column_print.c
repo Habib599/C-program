@@ -18,6 +18,7 @@ int main()
     {
         printf("%d ",a[e][i]);
     }
+    printf("\n");
     // exact column
     int c;
     scanf("%d",&c);

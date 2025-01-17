@@ -23,13 +23,8 @@ int main()
             }
         }
     }
-    if(element == cnt)
-    {
-        printf("Zero matrix\n");
-    }
-    else 
-    {
-        printf("Not zero matrix\n");
-    }
+    if(element == cnt) printf("Zero matrix\n");
+
+    else printf("Not zero matrix\n");
     return 0;
 }

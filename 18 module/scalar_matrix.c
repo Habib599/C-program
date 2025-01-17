@@ -33,13 +33,7 @@ int main()
             }
         }
     }
-    if(flag==1)
-    {
-        printf("Scalar Matrix\n");
-    }
-    else 
-    {
-        printf("Not Scalar matrix\n");
-    }
+    if(flag) printf("Scalar Matrix\n");
+    else  printf("Not Scalar matrix\n");
     return 0;
 }

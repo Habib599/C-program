@@ -1,14 +1,14 @@
 #include<stdio.h>
 #include<string.h>
-void fun(char ar[])
+char* fun(char ar[])
 {
-    printf("%d",strlen(ar));
-    char n[]="World";
+    printf("%d\n",strlen(ar));
+    static char n[]="World";// Static array persists after the function ends
     return n;
 }
 int main()
 {
     char ar[20]="Hello";
-    fun(ar);
+    printf("%s",fun(ar));
     return 0;
 }

@@ -3,7 +3,7 @@ void fun(int a[],int n,int i)
 {
     // base case
     if(i==n) return;
-    printf("%d\n",a[i]);
+    printf("%d ",a[i]);
     fun(a,n,i+1);
 }
 int main()

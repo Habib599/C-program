@@ -30,13 +30,8 @@ int main()
             }
         }
     }
-    if(flag==1)
-    {
-        printf("Secondary Diagonal\n");
-    }
-    else 
-    {
-        printf("Not Diagonal\n");
-    }
+    if(flag) printf("Secondary Diagonal\n");
+    else printf("Not Diagonal\n");
+
     return 0;
 }

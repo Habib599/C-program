@@ -6,15 +6,13 @@ int main() {
 
     int tiger = 0, pathan = 0;
 
-    for (int i = 0; i < n; i++) 
-    {
+    for (int i = 0; i < n; i++) {
         int x1, x2;
         scanf("%d %d", &x1, &x2);
-        if (x1 > x2) 
-        {
+        if (x1 > x2) {
             tiger++;
-        } else if (x1 < x2) 
-        {
+        } 
+        else if (x1 < x2) {
             pathan++;
         }
     }

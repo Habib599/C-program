@@ -1,5 +1,6 @@
 #include <stdio.h>
-void fun(int i){
+void fun(int i)
+{
     if(i==1) return;
     printf("%d ",i);
     fun(i-1);

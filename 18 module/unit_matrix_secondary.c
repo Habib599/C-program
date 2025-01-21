@@ -33,13 +33,8 @@ int main()
             }
         }
     }
-    if(flag==1)
-    {
-        printf("Secondary Unit Matrix\n");
-    }
-    else 
-    {
-        printf("Not Unit matrix\n");
-    }
+    if(flag) printf("Secondary Unit Matrix\n");
+    else    printf("Not Unit matrix\n");
+    
     return 0;
 }
